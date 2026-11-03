@@ -1,0 +1,6 @@
+{
+  "name": "TekaKata - Game Edukasi Susun Kalimat Anak SD",
+  "description": "Game puzzle edukasi interaktif menyusun kata acak menjadi kalimat yang benar untuk anak SD usia 7–12 tahun dengan maskot Bubu si Burung Hantu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
